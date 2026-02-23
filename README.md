@@ -4,14 +4,14 @@
 bu proje, kullanıcıların kendi şiirlerini yazıp saklayabildiği bir web uygulamasıdır. kullanıcılar şiirlerini ekleyebilir, düzenleyebilir ve silebilir.
 
 ## Hedef Kullanıcılar
-şiir yazmayı seven kişiler
-öğrenciler
+şiir yazmayı seven kişiler,
+öğrenciler,
 edebiyata ilgi duyanlar
 
 ## Temel Özellikler
-kullanıcı kayıt/giriş
-şiir ekleme
-şiir silme
+kullanıcı kayıt/giriş,
+şiir ekleme,
+şiir silme,
 şiir güncelleme
 
 ## Kullanılan Teknolojiler
